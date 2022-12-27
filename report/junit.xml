@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="" tests="6" assertions="25" errors="0" warnings="0" failures="0" skipped="0" time="27.435728">
+    <testsuite name="Browser Test Suite" tests="6" assertions="25" errors="0" warnings="0" failures="0" skipped="0" time="27.435728">
+      <testsuite name="Tests\Browser\AdministratorTest" file="/Users/bendo01/Sites/ith-test/tests/Browser/AdministratorTest.php" tests="6" assertions="25" errors="0" warnings="0" failures="0" skipped="0" time="27.435728">
+        <testcase name="testSeeLoginPage" class="Tests\Browser\AdministratorTest" classname="Tests.Browser.AdministratorTest" file="/Users/bendo01/Sites/ith-test/tests/Browser/AdministratorTest.php" line="16" assertions="1" time="4.006209"/>
+        <testcase name="testAdministratorLoginAndShowDashboardPage" class="Tests\Browser\AdministratorTest" classname="Tests.Browser.AdministratorTest" file="/Users/bendo01/Sites/ith-test/tests/Browser/AdministratorTest.php" line="24" assertions="4" time="12.759260"/>
+        <testcase name="testAdministratorLoginAndGoToFacultyPage" class="Tests\Browser\AdministratorTest" classname="Tests.Browser.AdministratorTest" file="/Users/bendo01/Sites/ith-test/tests/Browser/AdministratorTest.php" line="40" assertions="5" time="2.767727"/>
+        <testcase name="testAdministratorLoginAndGoToMajorPage" class="Tests\Browser\AdministratorTest" classname="Tests.Browser.AdministratorTest" file="/Users/bendo01/Sites/ith-test/tests/Browser/AdministratorTest.php" line="56" assertions="5" time="2.279068"/>
+        <testcase name="testAdministratorLoginAndGoToUnitPage" class="Tests\Browser\AdministratorTest" classname="Tests.Browser.AdministratorTest" file="/Users/bendo01/Sites/ith-test/tests/Browser/AdministratorTest.php" line="73" assertions="5" time="2.685673"/>
+        <testcase name="testAdministratorLoginAndGoToAcademicYearPage" class="Tests\Browser\AdministratorTest" classname="Tests.Browser.AdministratorTest" file="/Users/bendo01/Sites/ith-test/tests/Browser/AdministratorTest.php" line="89" assertions="5" time="2.937792"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testsuites>
